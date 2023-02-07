@@ -7,9 +7,67 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:659136432620:android:42745a8063876740ae98c9",
+        "android_client_info": {
+          "package_name": "com.milanpower.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659136432620-hnmuaraqmm67qjacf75c53djsl4lkle6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMrgZD6w4Zur4lb99CYYOW0A8bUNFnmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659136432620-hnmuaraqmm67qjacf75c53djsl4lkle6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:659136432620:android:7f37b3f1f9aeba67ae98c9",
         "android_client_info": {
           "package_name": "com.starlaminates.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659136432620-hnmuaraqmm67qjacf75c53djsl4lkle6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMrgZD6w4Zur4lb99CYYOW0A8bUNFnmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659136432620-hnmuaraqmm67qjacf75c53djsl4lkle6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659136432620:android:55af1012b025ed23ae98c9",
+        "android_client_info": {
+          "package_name": "com.vanmlaminates.app"
         }
       },
       "oauth_client": [

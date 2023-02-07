@@ -45,7 +45,7 @@
     <div class="pr-grid">
         <div class="le-ft" (click)="viewProfiePic()">
             <!-- <i class="material-icons">person</i> -->
-            <img src="{{upload_url+karigar_detail.profile}}">
+            <img src="{{karigar_detail.profile ? upload_url+karigar_detail.profile : 'assets/imgs/man.svg'}}">
         </div>
         <div class="ri-ght">
             <div class="align-ri">

@@ -286,7 +286,7 @@ export class MyApp {
                                 {text: this.cancl, },
                                 {text: this.upd_now,
                                     handler: () => {
-                                        window.open('https://play.google.com/store/apps/details?id=com.starlaminates.app&hl=en','_system','location=yes');
+                                        window.open('https://play.google.com/store/apps/details?id=com.vanmlaminates.app&hl=en','_system','location=yes');
                                     } 
                                 }
                             ]
@@ -320,7 +320,7 @@ export class MyApp {
 
         const options: PushOptions = {
             android: {
-                senderID: '158421422619',
+                senderID: '659136432620',
                 icon: './assets/imgs/logo_small',
                 forceShow:true
             },
