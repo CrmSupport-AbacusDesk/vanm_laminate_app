@@ -397,7 +397,7 @@ export class ProfilePage {
     share_code()
     {
         let image = "";
-        let app_url = "https://play.google.com/store/apps/details?id=com.vanmlaminates.app";
+        let app_url = "https://play.google.com/store/apps/details?id=com.vanmply.app";
         this.socialSharing.share("Hey there join me (" + this.karigar_detail.full_name + "-" + this.karigar_detail.mobile_no + ") on Vanm Ply , a Carpenter app. Enter my code *" + this.karigar_detail.referral_code + "* to earn points back in your wallet!", "", image, app_url)
         .then(resp=>{
             

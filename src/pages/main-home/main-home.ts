@@ -19,7 +19,7 @@ import { FaqPage } from '../faq/faq';
 
 export class MainHomePage {
   items = [
-    'Advance Decorative Laminates'
+    'vanmply'
   ];
   tokenInfo:any={};
   lang:any='';
